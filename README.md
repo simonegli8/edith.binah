@@ -1,2 +1,4 @@
-# fresh-website.com
+# Fresh Website
+
+A fresh website structure using TypesetterCMS.
  
