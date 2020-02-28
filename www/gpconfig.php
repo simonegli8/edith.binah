@@ -15,7 +15,7 @@
  *        'ico', 
  *        'jpeg', 'jpg', 'js', 'json', 
  *        'less', 
- *        'm4v', 'md, 'mid', 'mov', 'mp3', 'mp4', 'mpc', 'mpeg', 'mpg', 
+ *        'm4v', 'md', 'mid', 'mov', 'mp3', 'mp4', mpc', 'mpeg', 'mpg', 
  *        'ods', 'odt', 'ogg', 'oga', 'ogv', 'opus', 
  *        'pages', 'pdf', 'png', 'ppt', 'pptx', 
  *        'qt', 
@@ -30,7 +30,7 @@
  * Note: gp_restrict_uploads has to be set to true for upload_extension settings to have any effect
  */
 define('gp_restrict_uploads',true);
-$upload_extensions_allow = array();
+$upload_extensions_allow = array('m4a', 'acc', 'woff', 'eof', 'ttf', 'tex', 'raw', 'ts');
 $upload_extensions_deny = array();
 
 
@@ -187,3 +187,4 @@ define('gpdebug',false);
  */
 
 
+define('gp_indexphp',false);
