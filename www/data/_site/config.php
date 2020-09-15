@@ -1,11 +1,11 @@
 <?php
 defined('is_running') or die('Not an entry point...');
 $fileVersion = '5.1';
-$fileModTime = '1600085325';
+$fileModTime = '1600161474';
 $file_stats = array (
   'created' => 1600066709,
   'gpversion' => '5.1',
-  'modified' => 1600085325,
+  'modified' => 1600161474,
   'username' => 'edith',
 );
 
@@ -14,8 +14,8 @@ $config = array (
   'toemail' => 'edith.zivi@gmx.net',
   'gpLayout' => 'e2nbk4c',
   'title' => 'Gallery Wawatay',
-  'keywords' => 'Typesetter , Easy CMS, Content Management, PHP, Free CMS, Website builder, Open Source',
-  'desc' => 'A new Typesetter installation. You can change your site\'s description in the configuration.',
+  'keywords' => 'Art, Paintings',
+  'desc' => 'Art gallery Wawatay',
   'timeoffset' => '0',
   'langeditor' => 'inherit',
   'dateformat' => '%m/%d/%y - %I:%M %p',
@@ -28,6 +28,16 @@ $config = array (
   'gallery_legacy_style' => false,
   'addons' => 
   array (
+    '3nm0e1r' => 
+    array (
+      'code_folder_part' => '/data/_addoncode/3nm0e1r',
+      'data_folder' => '3nm0e1r',
+      'name' => 'Search Engine Poker',
+      'version' => '1.1',
+      'id' => '134',
+      'remote_install' => true,
+      'About' => 'Pokes Search Engines from admin area if your site or sitemap has been updated.',
+    ),
   ),
   'file_count' => 8,
   'maximgarea' => '2073600',
@@ -82,11 +92,21 @@ $config = array (
   'mail_method' => 'mail',
   'sendmail_path' => '',
   'smtp_hosts' => '',
-  'smtp_user' => '',
-  'smtp_pass' => '',
+  'smtp_user' => 'edith',
+  'smtp_pass' => 'binahbermuda',
   'recaptcha_public' => '',
   'recaptcha_private' => '',
   'recaptcha_language' => 'inherit',
+  'admin_links' => 
+  array (
+    'Admin_SearchEnginePoker' => 
+    array (
+      'label' => 'Poke Search Engines',
+      'addon' => '3nm0e1r',
+      'class' => 'Admin_SE_Poker',
+      'script' => '/data/_addoncode/3nm0e1r/Admin_SE_Poker.php',
+    ),
+  ),
 );
 
 $meta_data = array (

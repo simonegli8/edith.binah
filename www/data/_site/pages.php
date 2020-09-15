@@ -1,11 +1,11 @@
 <?php
 defined('is_running') or die('Not an entry point...');
 $fileVersion = '5.1';
-$fileModTime = '1600088413';
+$fileModTime = '1600161492';
 $file_stats = array (
   'created' => 1600066708,
   'gpversion' => '5.1',
-  'modified' => 1600088413,
+  'modified' => 1600161492,
   'username' => 'edith',
 );
 
@@ -16,34 +16,14 @@ $pages = array (
     array (
       'level' => 0,
     ),
-    'b' => 
-    array (
-      'level' => 0,
-    ),
-    'd' => 
-    array (
-      'level' => 1,
-    ),
-    'e' => 
-    array (
-      'level' => 0,
-    ),
-    'f' => 
-    array (
-      'level' => 1,
-    ),
     'special_contact' => 
     array (
-      'level' => 1,
+      'level' => 0,
     ),
   ),
   'gp_index' => 
   array (
     'Home' => 'a',
-    'Heading_Page' => 'b',
-    'Child_Page' => 'd',
-    'More' => 'e',
-    'About' => 'f',
     'Contact' => 'special_contact',
     'Site_Map' => 'special_site_map',
     'Galleries' => 'special_galleries',
@@ -55,32 +35,13 @@ $pages = array (
     'a' => 
     array (
       'label' => 'Home',
-      'type' => 'text',
-    ),
-    'b' => 
-    array (
-      'label' => 'Heading Page',
-      'type' => 'text',
-    ),
-    'd' => 
-    array (
-      'label' => 'Child Page',
-      'type' => 'text',
-    ),
-    'e' => 
-    array (
-      'label' => 'More',
-      'type' => 'text',
-    ),
-    'f' => 
-    array (
-      'label' => 'About',
-      'type' => 'text',
+      'type' => 'gallery,text',
     ),
     'special_contact' => 
     array (
       'lang_index' => 'contact',
       'type' => 'special',
+      'vis' => 'private',
     ),
     'special_site_map' => 
     array (
@@ -123,7 +84,7 @@ $pages = array (
       'version' => '1.0',
       'name' => 'Minimalista 1.0',
       'all_gadgets' => false,
-      'template_mod' => 1600088404,
+      'template_mod' => 1600160273,
       'doctype' => '',
     ),
   ),
