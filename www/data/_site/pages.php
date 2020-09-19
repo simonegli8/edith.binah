@@ -1,11 +1,11 @@
 <?php
 defined('is_running') or die('Not an entry point...');
 $fileVersion = '5.1';
-$fileModTime = '1600161492';
+$fileModTime = '1600545524';
 $file_stats = array (
   'created' => 1600066708,
   'gpversion' => '5.1',
-  'modified' => 1600161492,
+  'modified' => 1600545524,
   'username' => 'edith',
 );
 
@@ -84,7 +84,7 @@ $pages = array (
       'version' => '1.0',
       'name' => 'Minimalista 1.0',
       'all_gadgets' => false,
-      'template_mod' => 1600160273,
+      'template_mod' => 1600545492,
       'doctype' => '',
     ),
   ),
