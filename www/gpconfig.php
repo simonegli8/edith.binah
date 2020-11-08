@@ -15,7 +15,7 @@
  *        'ico', 
  *        'jpeg', 'jpg', 'js', 'json', 
  *        'less', 
- *        'm4v', 'md', 'mid', 'mov', 'mp3', 'mp4', mpc', 'mpeg', 'mpg', 
+ *        'm4v', 'md, 'mid', 'mov', 'mp3', 'mp4', 'mpc', 'mpeg', 'mpg', 
  *        'ods', 'odt', 'ogg', 'oga', 'ogv', 'opus', 
  *        'pages', 'pdf', 'png', 'ppt', 'pptx', 
  *        'qt', 
@@ -185,6 +185,3 @@ define('gpdebug',false);
  * Include clearfloats in Typesetter generated code
  * define('clear_floats',false); experimental
  */
-
-
-define('gp_indexphp',false);

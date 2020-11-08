@@ -78,7 +78,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Dakotaman</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/Dakotaman 2.png" alt=""/>
@@ -89,7 +89,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Mexico</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/Mexiko.png" alt=""/>
@@ -100,7 +100,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Animal Spirit</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>                  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>                  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/animal1.png" alt=""/>
@@ -111,7 +111,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Mexico - Appenzell Connection</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/Mexico - Appenzell Connection.png" alt=""/>
@@ -122,7 +122,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Universal Light</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/Universal light.png" alt=""/>
@@ -133,7 +133,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Plumas Mexicanas</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/Plumas mecicanas.png" alt=""/>
@@ -144,7 +144,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Animal Spirit</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/animal4.png" alt=""/>
@@ -155,10 +155,10 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Wataway</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
-                <img class="full-img" src="img/Wawatay.png" alt=""/>
+                <img class="full-img" src="img/Wawatay.jpg" alt=""/>
               </a>	
             </div>
             <div class="s-12 m-6 l-five">
@@ -166,7 +166,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Selbstportrait</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/Selbstportai-1.png" alt=""/>
@@ -177,7 +177,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Animal Spirit</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/animal3.png" alt=""/>
@@ -188,7 +188,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Animal Spirit</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/animal2.png" alt=""/>
@@ -199,10 +199,10 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Inspiracion Mexicano</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
-                <img class="full-img" src="img/Inspiracion Mexicano.png" alt=""/>
+                <img class="full-img" src="img/Inspiracion Mexicano.jpg" alt=""/>
               </a>	
             </div>
             <div class="s-12 m-6 l-five">
@@ -210,7 +210,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Basel im All</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/Basel im All.png" alt=""/>
@@ -221,7 +221,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Milpa Alta</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/Milpa Alta.png" alt=""/>
@@ -232,7 +232,7 @@
                 <div class="image-hover-overlay background-primary"> 
                   <div class="image-hover-overlay-content text-center padding-2x">
                     <h3 class="text-white text-size-20 margin-bottom-10">Animal Spirit</h3>
-                    <p class="text-white text-size-14 margin-bottom-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>  
+                    <p class="text-white text-size-14 margin-bottom-20"></p>  
                   </div> 
                 </div> 
                 <img class="full-img" src="img/animal7.png" alt=""/>
