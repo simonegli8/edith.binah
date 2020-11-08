@@ -1,6 +1,6 @@
 Liebe Edith,
 
-Die webseite wird bei freehostia.com gehostet, vorher war freehostings.com, aber da gab es Probleme mit der Email-Adresse.
+Die Webseite wird bei freehostia.com gehostet, vorher war freehostings.com, aber da gab es Probleme mit der Email-Adresse.
 Das Control-Panel login für freehostia ist:
 
 Benutzername: ediziv
